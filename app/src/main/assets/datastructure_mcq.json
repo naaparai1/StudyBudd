@@ -1,0 +1,55 @@
+{
+  "topic": "Data Structure",
+  "questions": [
+    {
+      "question": "What is the purpose of a linked list?",
+      "options": [
+        "To store elements in a contiguous block of memory",
+        "To represent hierarchical relationships",
+        "To implement dynamic data structures",
+        "To perform mathematical calculations"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which of the following is not a type of tree?",
+      "options": [
+        "Binary Tree",
+        "Trie",
+        "Heap",
+        "Radix Tree"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the time complexity of binary search in a sorted array?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In a stack, which operation adds an element to the top of the stack?",
+      "options": [
+        "Push",
+        "Pop",
+        "Peek",
+        "Insert"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What does FIFO stand for?",
+      "options": [
+        "First In First Out",
+        "First In Last Out",
+        "Fast In Fast Out",
+        "Final In Final Out"
+      ],
+      "correct_answer": 0
+    }
+  ]
+}

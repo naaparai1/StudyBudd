@@ -1,0 +1,58 @@
+{
+  "courses": [
+    {
+      "courseCode": "CS101",
+      "title": "Introduction to Computer Science",
+      "description": "An introductory course covering the fundamental concepts of computer science. Topics include algorithms, data structures, and problem-solving.",
+      "creditHours": 3
+    },
+    {
+      "courseCode": "CS201",
+      "title": "Data Structures and Algorithms",
+      "description": "In-depth study of data structures and algorithms. Emphasis on algorithm analysis, sorting, searching, and data manipulation.",
+      "creditHours": 4
+    },
+    {
+      "courseCode": "CS301",
+      "title": "Database Management Systems",
+      "description": "Introduction to database systems, relational databases, SQL, and database design principles.",
+      "creditHours": 3
+    },
+    {
+      "courseCode": "CS401",
+      "title": "Software Engineering",
+      "description": "Principles and practices of software engineering. Covers software development life cycle, project management, and software testing.",
+      "creditHours": 4
+    },
+    {
+      "courseCode": "CS501",
+      "title": "Artificial Intelligence",
+      "description": "Introduction to artificial intelligence, machine learning, and natural language processing.",
+      "creditHours": 3
+    },
+    {
+      "courseCode": "CS601",
+      "title": "Computer Networks",
+      "description": "Study of computer networks, protocols, and communication technologies. Includes network design and security.",
+      "creditHours": 4
+    },
+    {
+      "courseCode": "CS701",
+      "title": "Operating Systems",
+      "description": "Principles and design of operating systems. Covers process management, memory management, and file systems.",
+      "creditHours": 3
+    },
+    {
+      "courseCode": "CS801",
+      "title": "Web Development",
+      "description": "Introduction to web development technologies, including HTML, CSS, JavaScript, and server-side scripting.",
+      "creditHours": 4
+    },
+    {
+      "courseCode": "CS901",
+      "title": "Cybersecurity",
+      "description": "Fundamentals of cybersecurity, cryptography, and network security. Focus on protecting information systems.",
+      "creditHours": 3
+    }
+  ]
+}

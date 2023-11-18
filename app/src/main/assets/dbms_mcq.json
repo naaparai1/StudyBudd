@@ -1,0 +1,55 @@
+{
+  "topic": "DBMS",
+  "questions": [
+    {
+      "question": "What does DBMS stand for?",
+      "options": [
+        "Database Management System",
+        "Data Business Management System",
+        "Digital Base Management System",
+        "Distributed Database Management System"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which of the following is not a type of database model?",
+      "options": [
+        "Relational Model",
+        "Network Model",
+        "Hierarchical Model",
+        "Linear Model"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is SQL used for?",
+      "options": [
+        "Software Query Language",
+        "Structured Query Language",
+        "Simple Question Language",
+        "Sequential Query Language"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "In a relational database, what is a primary key?",
+      "options": [
+        "A key that uniquely identifies each record in a table",
+        "A key used for encryption",
+        "A key used for indexing",
+        "A key used for sorting"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is normalization in the context of databases?",
+      "options": [
+        "A process of organizing data to minimize redundancy",
+        "A process of converting data into XML format",
+        "A process of creating backup copies",
+        "A process of encrypting data"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}
